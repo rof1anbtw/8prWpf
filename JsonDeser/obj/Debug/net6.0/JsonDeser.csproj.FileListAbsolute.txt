@@ -1,0 +1,12 @@
+C:\Users\percy\source\repos\pr8Wpf\JsonDeser\bin\Debug\net6.0\JsonDeser.deps.json
+C:\Users\percy\source\repos\pr8Wpf\JsonDeser\bin\Debug\net6.0\JsonDeser.dll
+C:\Users\percy\source\repos\pr8Wpf\JsonDeser\bin\Debug\net6.0\JsonDeser.pdb
+C:\Users\percy\source\repos\pr8Wpf\JsonDeser\obj\Debug\net6.0\JsonDeser.csproj.AssemblyReference.cache
+C:\Users\percy\source\repos\pr8Wpf\JsonDeser\obj\Debug\net6.0\JsonDeser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\percy\source\repos\pr8Wpf\JsonDeser\obj\Debug\net6.0\JsonDeser.AssemblyInfoInputs.cache
+C:\Users\percy\source\repos\pr8Wpf\JsonDeser\obj\Debug\net6.0\JsonDeser.AssemblyInfo.cs
+C:\Users\percy\source\repos\pr8Wpf\JsonDeser\obj\Debug\net6.0\JsonDeser.csproj.CoreCompileInputs.cache
+C:\Users\percy\source\repos\pr8Wpf\JsonDeser\obj\Debug\net6.0\JsonDeser.dll
+C:\Users\percy\source\repos\pr8Wpf\JsonDeser\obj\Debug\net6.0\refint\JsonDeser.dll
+C:\Users\percy\source\repos\pr8Wpf\JsonDeser\obj\Debug\net6.0\JsonDeser.pdb
+C:\Users\percy\source\repos\pr8Wpf\JsonDeser\obj\Debug\net6.0\ref\JsonDeser.dll
